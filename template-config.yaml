@@ -1,0 +1,17 @@
+long_port:
+  app_key: TODO)) EDIT ME
+  app_secret: TODO)) EDIT ME
+  access_token: TODO)) EDIT ME
+stock:
+  -
+    symbol: NVDA.US
+    name: NVIDIA
+    source: long_port
+  -
+    symbol: AAPL.US
+    name: Apple
+    source: long_port
+  -
+    symbol: BABA.US
+    name: Alibaba
+    source: long_port
